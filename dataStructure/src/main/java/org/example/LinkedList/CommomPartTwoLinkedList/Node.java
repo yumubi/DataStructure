@@ -1,4 +1,4 @@
-package org.example.StackAndQueue.LinkedList.CommomPartTwoLinkedList;
+package org.example.LinkedList.CommomPartTwoLinkedList;
 
 public class Node {
     public int value;
